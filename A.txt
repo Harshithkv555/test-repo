@@ -2,8 +2,8 @@ byte
 short
 int
 long
-These Are Decimal Values
-float
+TADAAA
+The float Value Had gine in bug fix
 double
 boolean
 String
