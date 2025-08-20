@@ -5,4 +5,5 @@ long
 float
 double
 boolean
+char i = 'x'
 String
