@@ -1,13 +1,1 @@
-final
-filally
-finalize
-this
-super
-constructor
-iib
-sib
-access modifier
-generics
-docker
-jenkins
-kubernates
+String value = "from A";
