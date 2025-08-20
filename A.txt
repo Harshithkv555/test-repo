@@ -2,6 +2,7 @@ byte
 short
 int
 long
+These Are Decimal Values
 float
 double
 boolean
