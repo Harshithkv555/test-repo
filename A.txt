@@ -1,1 +1,5 @@
+hot
 String value = "from B";
+=======
+String value = "from A";
+Master
