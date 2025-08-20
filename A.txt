@@ -1,1 +1,5 @@
+is right A
 int y = 500;
+=======
+int y = "MILK";
+is worng master
