@@ -6,15 +6,3 @@ float
 double
 boolean
 String
-Jack
-Sparrow
-=======
-#######################
-Thalaivar Erangattume
-saritha eludattume
-#######################
-Barbosa
-Captain
-Git Merge Conflict from "features branch"
-coolie power housee
-=========================
