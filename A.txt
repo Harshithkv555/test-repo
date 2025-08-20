@@ -1,14 +1,5 @@
-byte
-short
-int
-long
-float
-double
-boolean
-String
-Jack
-Sparrow
+is right A
+int y = 500;
 =======
-Barbosa
-Captain
-=========================
+int y = "MILK";
+is worng master
