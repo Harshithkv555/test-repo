@@ -6,3 +6,4 @@ float
 double
 boolean
 Strings
+Manik
