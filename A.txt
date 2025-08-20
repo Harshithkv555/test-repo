@@ -4,6 +4,8 @@ int
 long
 TADAAA
 The float Value Had gine in bug fix
+TADAA
+THAILAVAA
 double
 boolean
 String
