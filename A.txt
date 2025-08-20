@@ -6,5 +6,5 @@ float
 double
 boolean
 Strings
-manikyam
+Manik
 Basha
