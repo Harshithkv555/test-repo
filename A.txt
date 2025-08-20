@@ -7,7 +7,3 @@ double
 boolean
 Strings
 Basha
-Manik
-
-
->>>>>>> 748a7259850a38f057f57b52599902364bb4aea5
